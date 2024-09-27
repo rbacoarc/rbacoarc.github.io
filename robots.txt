@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rbacoarc.github.io/sitemap.rbacoarc.gz
+Sitemap: https://rbacoarc.github.io/app/sitemap.rbacoarc.gz
+Sitemap: https://rbacoarc.github.io/assets/sitemap.rbacoarc.gz
+Sitemap: https://rbacoarc.github.io/css/sitemap.rbacoarc.gz
+Sitemap: https://rbacoarc.github.io/data/sitemap.rbacoarc.gz
+Sitemap: https://rbacoarc.github.io/includes/sitemap.rbacoarc.gz
+Sitemap: https://rbacoarc.github.io/item/sitemap.rbacoarc.gz
+Sitemap: https://rbacoarc.github.io/src/sitemap.rbacoarc.gz
